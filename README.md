@@ -1,11 +1,11 @@
-# Nombre del Proyecto
+# Taller #1
 
-Breve descripción del proyecto.
+Integrantes: Francis Bravo, Michael Yanez
 
-## Cómo usar
+## Desarrollo de los ejercicio2 1,2,3,4
 
-Instrucciones para correr el proyecto.
+Los ejercicios se obtuvieron de las presentaciones y del quiziz
 
-## Autor
+## Autores
 
-Tu nombre.
+Francis Bravo, Michael Yanez
